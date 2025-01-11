@@ -1,2 +1,2 @@
 # changelog
-Sample solution for Website [https://johnpaing.github.io/simple-Html] from roadmap.sh[https://roadmap.sh/projects/changelog-component]
+Sample solution for Website [https://github.com/johnpaing/changelog] from roadmap.sh[https://roadmap.sh/projects/changelog-component]
